@@ -1,4 +1,3 @@
-// scripts/checkUrl.js
 import fetch from 'node-fetch';
 
 async function check() {
